@@ -47,8 +47,8 @@
 **Результат:**
 | ВМ | Внешний IP | Имя |
 |---|---|---|
-| web | 111.88.252.199 | netology-develop-platform-web |
-| db | 111.88.248.222 | netology-develop-platform-db |
+| web | 111.88.243.158 | netology-develop-platform-web |
+| db | 93.77.182.255 | netology-develop-platform-db |
 
 ---
 
