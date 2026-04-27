@@ -22,7 +22,7 @@ resource "yandex_compute_instance" "platform" {
   }
 
   network_interface {
-    subnet_id = "e9be0ae07guviitl84ts"
+    subnet_id = data.yandex_vpc_subnet.default.id
     nat       = true
   }
 
