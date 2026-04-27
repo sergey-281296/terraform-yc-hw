@@ -1,0 +1,7 @@
+key.json
+token.auto.tfvars
+terraform.tfstate
+terraform.tfstate.backup
+console.tf
+.terraform
+.terraform.lock.hcl
